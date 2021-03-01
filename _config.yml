@@ -2,7 +2,7 @@ title: Mikael Torndahl - Blog
 author: micketorndahl
 email: micketorndahl@hotmail.com
 description: The journey to become a full stack web developer.
-theme: minima:
+theme: minima
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
